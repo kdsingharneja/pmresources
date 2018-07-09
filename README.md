@@ -1,10 +1,14 @@
 # PM Resources
-An Exhaustive List of Product Management Resources
+An Exhaustive List of Product Management Resources. This is a culmination of weeks of studying, curation and organization.
 
 ## Training / Presentations
 [Jeff Patton] (https://jpattonassociates.com/) - TBD Uploaded
 
 [Story Mapping Slides ~ Jeff Patton] (https://jpattonassociates.com/storymappingslides/)
+
+## Curations
+
+[Product Manual] (https://www.productmanual.co/)
 
 ## Videos
 
@@ -52,10 +56,22 @@ An Exhaustive List of Product Management Resources
 
 ## Infographics
 
-## One Off Notes
-
 ## Dos vs Don'ts
 
-### Dos
+This list can never be exhaustive because what is a DO for a company is a NO-NO for another. Nevertheless, here is a list based on my research, personal experiences, experts I have worked with and common sense. 
 
-### Donts
+### 1. Focus on OUTCOMES vs OUTPUT. 
+You focus only the latter when all the outcomes have been met or the team wants to catch up on things they are behind on e.g tech debt, internal efficiency spikes. Even then, at. bare minimum, try and come up with a theme and convey that to the team so there is a guiding light, intent and goal to the effort rather than a bunch of chores to do. i.e. _"We are going to focus next two sprints or next release on improving our dev ops capability so that we can provide small low-pain high-frequency features quickly"_
+
+### 2. Minimize the wasteful work.
+10th principle of Agile says, _Simplicity -the art of maximizing the amount of work not done- is essential_.<sup>[1]</sup>
+This directly relates to PMing. Use all objective available to you, via measuring, talking to customers, feedbacks internal or external, UX research etc. , collate it all to mark work that is Simple and powerful. This will help with speed and reduced complexity. Produce less. This relates to #1.
+
+### 3. Don't groom in isolation
+You must groom work to be done aka. stories, with the larger team. Use online of mobile based planning poker to spead up things if some members of the team are not co-located. The team will be doing the work, not you. Hence make sure that they understand the stories, ask questions, estimate it and push back when they are not ready. If work is improperly understood or estimated, then there will be churn during the sprint and it will wear the team off the goal of the sprint.
+
+## One Off Notes
+
+## References
+[1] 12 Principles Behind the Agile Manifesto.” Agile Alliance, 15 Nov. 2017, www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/. Accessed 9 July 2018.
+
