@@ -20,15 +20,30 @@ An Exhaustive List of Product Management Resources. This is a culmination of wee
 [How To Design and Ship Successful Products - Agile Uprising Episode](https://jpattonassociates.com/how-to-design-and-ship-successful-products/)
 
 ## Articles
+
+### General
 [Product School Blog](https://www.productschool.com/blog/)
 
+[Jeff Patton on Fixing Agile Product Ownership](https://www.infoq.com/news/2018/03/patton-product-management)
+
+[Agile Development and Scrum Quick Reference](https://www.dropbox.com/s/ed5ugafsi1qecj7/agile_11x17.pdf?dl=0)
+
+### Research
+[Nine UX Research Methods Product People Should Know](https://uxstudioteam.com/ux-blog/ux-research-methods/?utm_source=Social&utm_medium=referral&utm_campaign=ownsocial)
+
+### MVP
 [How will you slice it ~ Jeff Patton](https://jpattonassociates.com/wp-content/uploads/2015/01/how_you_slice_it.pdf)
 
 [The new backlog ~ Jeff Patton](https://jpattonassociates.com/the-new-backlog/)
 
+### Story Writing
 [Why Documents Fail; What You Can Do About It](https://jpattonassociates.com/documents-fail-can/) | [Slides](https://www.youtube.com/watch?v=a--xbF_WGyM)
 
-[Jeff Patton on Fixing Agile Product Ownership](https://www.infoq.com/news/2018/03/patton-product-management)
+[Agile Story Essentials](https://jpattonassociates.com/wp-content/uploads/2015/03/story_essentials_quickref.pdf)
+
+### Story Mapping
+
+[Story Mapping Quick Guide](https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)
 
 [Story Mapping Example Problems](https://jpattonassociates.com/story-mapping-example-problems/#more-1476)
 
@@ -36,16 +51,16 @@ An Exhaustive List of Product Management Resources. This is a culmination of wee
 
 [Behind the magic curtain - secrets of his gruelling preparation of Steve Jobs as Presenter](https://www.theguardian.com/technology/2006/jan/05/newmedia.media1)
 
+### Communication
+
 [Steve Jobs Practiced 1 Habit That Turned Good Presentations Into Great Ones](https://www.inc.com/carmine-gallo/steve-jobs-practiced-1-habit-that-turned-good-presentations-into-great-ones.html)
 
-[Nine UX Research Methods Product People Should Know](https://uxstudioteam.com/ux-blog/ux-research-methods/?utm_source=Social&utm_medium=referral&utm_campaign=ownsocial)
+### Product Prioritization
 
-## Links
-[Agile Story Essentials](https://jpattonassociates.com/wp-content/uploads/2015/03/story_essentials_quickref.pdf)
+[Product Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
 
-[Story Mapping Quick Guide](https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)
-
-[Agile Development and Scrum Quick Reference](https://www.dropbox.com/s/ed5ugafsi1qecj7/agile_11x17.pdf?dl=0)
+### Kano Model
+[Complete Guide to Kano Model](https://foldingburritos.com/kano-model/)
 
 ## Books
 [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.com/gp/product/1491960604/ref=ox_sc_act_title_3?smid=ATVPDKIKX0DER&psc=1)
@@ -55,6 +70,13 @@ An Exhaustive List of Product Management Resources. This is a culmination of wee
 [Scrum Product Ownership: Balancing Value from the Inside Out ~ Robert Galen](https://www.amazon.com/Scrum-Product-Ownership-Balancing-Inside/dp/0988502623/ref=sr_1_1?s=books&ie=UTF8&qid=1531005500&sr=1-1&keywords=scrum+product+ownership+balancing+value+from+the+inside+out)
 
 ## Infographics
+
+[Challenges in Product Management-2016](https://29cja5sshw9cd2hej34fi12j-wpengine.netdna-ssl.com/wp-content/media/product-management-infographic-challenges-people-process-profit-2448x130-.png)
+
+[The evolving Procut Manager Role](https://cdn-images-1.medium.com/max/1304/1*Mp9wqK1dQ3Ju7g9oLlX5kQ.png)
+
+[Basic PO Principles](https://cdn-images-1.medium.com/max/2000/1*Z-S_WI4MwP1HIqJDcNuYNQ.png)
+
 
 ## Dos vs Don'ts
 
