@@ -87,12 +87,10 @@ You focus only the latter when all the outcomes have been met or the team wants 
 
 ### 2. Minimize the wasteful work.
 10th principle of Agile says, _Simplicity -the art of maximizing the amount of work not done- is essential_.<sup>[1]</sup>
-This directly relates to PMing. Use all objective available to you, via measuring, talking to customers, feedbacks internal or external, UX research etc. , collate it all to mark work that is Simple and powerful. This will help with speed and reduced complexity. Produce less. This relates to #1.
+This directly relates to PMing. Use all objective available to you, via measuring, talking to customers, feedbacks internal or external, UX research etc. , collate it all to mark work that is Simple and powerful. This will help with speed and reduced complexity. Produce less. This relates to #1. This also includes saying NO! to customers often after understanding what they _want_ is something they do not _need_.
 
 ### 3. Don't groom in isolation
 You must groom work to be done aka. stories, with the larger team. Use online of mobile based planning poker to spead up things if some members of the team are not co-located. The team will be doing the work, not you. Hence make sure that they understand the stories, ask questions, estimate it and push back when they are not ready. If work is improperly understood or estimated, then there will be churn during the sprint and it will wear the team off the goal of the sprint.
-
-## One Off Notes
 
 ## References
 [1] 12 Principles Behind the Agile Manifesto.” Agile Alliance, 15 Nov. 2017, www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/. Accessed 9 July 2018.
