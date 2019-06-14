@@ -10,7 +10,7 @@ An Exhaustive List of Product Management Resources. This is a culmination of wee
 
 [Product Manual](https://www.productmanual.co/)
 
-[Startup Advice[(https://startupadvice.xyz/)
+[Startup Advice](https://startupadvice.xyz/)
 
 ## Videos
 
