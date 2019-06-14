@@ -10,6 +10,8 @@ An Exhaustive List of Product Management Resources. This is a culmination of wee
 
 [Product Manual](https://www.productmanual.co/)
 
+[Startup Advice[(https://startupadvice.xyz/)
+
 ## Videos
 
 [Product School Videos](https://www.facebook.com/productschool/videos/)
@@ -94,4 +96,3 @@ You must groom work to be done aka. stories, with the larger team. Use online of
 
 ## References
 [1] 12 Principles Behind the Agile Manifesto.” Agile Alliance, 15 Nov. 2017, www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/. Accessed 9 July 2018.
-
