@@ -12,6 +12,8 @@ An Exhaustive List of Product Management Resources. This is a culmination of wee
 
 [Startup Advice](https://startupadvice.xyz/)
 
+[Product Led Growth](https://www.productled.org/)
+
 ## Videos
 
 [Product School Videos](https://www.facebook.com/productschool/videos/)
